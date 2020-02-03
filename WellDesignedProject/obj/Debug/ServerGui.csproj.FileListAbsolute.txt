@@ -1,0 +1,10 @@
+C:\Users\Nazif Furkan\Desktop\NetworkProject\WellDesignedProject\bin\Debug\WellDesignedProject.exe.config
+C:\Users\Nazif Furkan\Desktop\NetworkProject\WellDesignedProject\bin\Debug\WellDesignedProject.exe
+C:\Users\Nazif Furkan\Desktop\NetworkProject\WellDesignedProject\bin\Debug\WellDesignedProject.pdb
+C:\Users\Nazif Furkan\Desktop\NetworkProject\WellDesignedProject\obj\Debug\ServerGui.csprojResolveAssemblyReference.cache
+C:\Users\Nazif Furkan\Desktop\NetworkProject\WellDesignedProject\obj\Debug\WellDesignedProject.frmMain.resources
+C:\Users\Nazif Furkan\Desktop\NetworkProject\WellDesignedProject\obj\Debug\WellDesignedProject.Properties.Resources.resources
+C:\Users\Nazif Furkan\Desktop\NetworkProject\WellDesignedProject\obj\Debug\ServerGui.csproj.GenerateResource.Cache
+C:\Users\Nazif Furkan\Desktop\NetworkProject\WellDesignedProject\obj\Debug\WellDesignedProject.exe
+C:\Users\Nazif Furkan\Desktop\NetworkProject\WellDesignedProject\obj\Debug\WellDesignedProject.pdb
+C:\Users\Nazif Furkan\Desktop\NetworkProject\WellDesignedProject\obj\Debug\WellDesignedProject.frmActiveBrowsers.resources
