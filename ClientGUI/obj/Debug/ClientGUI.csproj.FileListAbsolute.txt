@@ -1,0 +1,9 @@
+C:\Users\Nazif Furkan\Desktop\NetworkProject\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\Nazif Furkan\Desktop\NetworkProject\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\Nazif Furkan\Desktop\NetworkProject\ClientGUI\bin\Debug\ClientGUI.pdb
+C:\Users\Nazif Furkan\Desktop\NetworkProject\ClientGUI\obj\Debug\ClientGUI.Form1.resources
+C:\Users\Nazif Furkan\Desktop\NetworkProject\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\Nazif Furkan\Desktop\NetworkProject\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
+C:\Users\Nazif Furkan\Desktop\NetworkProject\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\Nazif Furkan\Desktop\NetworkProject\ClientGUI\obj\Debug\ClientGUI.pdb
+C:\Users\Nazif Furkan\Desktop\NetworkProject\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
